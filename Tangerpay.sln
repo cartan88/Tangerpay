@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EBF61075-A118-437B-848D-20A8E5EE2766}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangerpay.Api.Tests", "Tangerpay.Api.Tests\Tangerpay.Api.Tests.csproj", "{B93571A3-1507-4148-90FB-3E69CC4FF71D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangerpay.WebApi", "Tangerpay.WebApi\Tangerpay.WebApi.csproj", "{E6A02273-D323-414B-8BD5-12F082A30747}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangerpay.Data", "Tangerpay.Data\Tangerpay.Data.csproj", "{4860272D-95F7-4063-8ACF-27138DFDF9FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangerpay.Domain", "Tangerpay.Domain\Tangerpay.Domain.csproj", "{D0B84815-4A66-4541-A560-4BD56E26ED92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangerpay.Api", "Tangerpay.Api\Tangerpay.Api.csproj", "{881A2F5F-8A07-4B71-9360-C77A3939ED0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93571A3-1507-4148-90FB-3E69CC4FF71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93571A3-1507-4148-90FB-3E69CC4FF71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93571A3-1507-4148-90FB-3E69CC4FF71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93571A3-1507-4148-90FB-3E69CC4FF71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A02273-D323-414B-8BD5-12F082A30747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A02273-D323-414B-8BD5-12F082A30747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A02273-D323-414B-8BD5-12F082A30747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A02273-D323-414B-8BD5-12F082A30747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4860272D-95F7-4063-8ACF-27138DFDF9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4860272D-95F7-4063-8ACF-27138DFDF9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4860272D-95F7-4063-8ACF-27138DFDF9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4860272D-95F7-4063-8ACF-27138DFDF9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B84815-4A66-4541-A560-4BD56E26ED92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B84815-4A66-4541-A560-4BD56E26ED92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B84815-4A66-4541-A560-4BD56E26ED92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B84815-4A66-4541-A560-4BD56E26ED92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881A2F5F-8A07-4B71-9360-C77A3939ED0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881A2F5F-8A07-4B71-9360-C77A3939ED0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881A2F5F-8A07-4B71-9360-C77A3939ED0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881A2F5F-8A07-4B71-9360-C77A3939ED0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4534E73F-CCA9-46DF-B7F2-733DCFC76488}
+	EndGlobalSection
+EndGlobal
